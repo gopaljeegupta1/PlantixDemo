@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlantixDemo</string>
+    <string name="add_sample_data">Add sample data</string>
+    <string name="delete">Delete</string>
+    <string name="delte_all_notes">Delte all notes</string>
+    <string name="new_note">New Note</string>
+    <string name="edit_note">Edit Note</string>
+</resources>
