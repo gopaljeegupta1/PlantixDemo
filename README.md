@@ -13,7 +13,7 @@
       o   Please use Kotlin to solve this task <br/>
 
 * Additional question: Which technologies would you use for implementing the remote & local data source in a real application assumed our backend provides a REST API <br/>
-  Answer: <br/> 
+  <b>Answer: </b><br/> 
     o   Retrofit for network apis <br/>
     o   Dagger2 with hilt for dependency injection so we can easly to inject classes throughout the app <br/>
     o   LiveData for db reactive programming <br/>
